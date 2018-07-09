@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>aside &#8211; Simply Static</title>
+	<atom:link href="https://nniculae.github.io/wp-simply-static/tag/aside/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nniculae.github.io/wp-simply-static</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 09 Jul 2018 21:08:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.7</generator>
+	<item>
+		<title>Post Format: Aside</title>
+		<link>https://nniculae.github.io/wp-simply-static/post-format-aside/</link>
+		<pubDate>Sun, 09 May 2010 14:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[Theme Buster]]></dc:creator>
+				<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[aside]]></category>
+
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/?p=559</guid>
+		<description><![CDATA[“I never tried to prove nothing, just wanted to give a good show. My life has always been my music, it&#8217;s always come first, but the music ain&#8217;t worth nothing if you can&#8217;t lay it on the public. The main thing is to live for that audience, &#8217;cause what you&#8217;re there for is to please &#8230; <p class="link-more"><a href="https://nniculae.github.io/wp-simply-static/post-format-aside/" class="more-link">Continue reading<span class="screen-reader-text"> "Post Format: Aside"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>“I never tried to prove nothing, just wanted to give a good show. My life has always been my music, it&#8217;s always come first, but the music ain&#8217;t worth nothing if you can&#8217;t lay it on the public. The main thing is to live for that audience, &#8217;cause what you&#8217;re there for is to please the people.”</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
